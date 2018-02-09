@@ -1,0 +1,253 @@
+en:in,on,at
+un:a
+momento:moment,time
+puntual:punctual,exact,detailed
+daniel:daniel
+decidió:to decide
+salir:get out,go out,leave
+a:to,at
+la:the,her,it
+calle:street,road,lane
+ese:that,that one
+el:the
+presunto:alleged,supposed,presumed
+asesino:murderer,killer,assassin
+se:himself,herself,itself
+hizo:do,make,prepare
+con:with,in spite of
+cuchillo:knife,gore,tusk
+del:of the,from the
+establecimiento:establishment,setting up
+y:and
+salió:go out,leave,get out
+tras:after,behind
+él:he,him,it
+puerta:door,gate,goal
+local:local
+le:him,her,it,you
+asestó:deal,fire
+primera:first
+puñalada:stab
+víctima:victim,casuality
+logró:achievement,reach
+seguir:follow,take
+caminando:walk,work
+dirección:address,management
+mediana:median,central reservation
+cayó:it fell, to hang
+al:to the,when,as
+tiempo:weather,time,day,half,tense
+que:what,who,which,that
+aprovechó:took advantage,make most
+para:for,to
+detrás:behind,back,then
+de:from,of
+asestarle:hit him,to fire
+más:plus,most
+puñaladas:stabbing,thrust
+suelo:floor,soil,floor,land
+percatarse:notice
+lo:the,it,him
+sucedido:happened,occurred,befall
+una:a,an,one
+persona:person
+bar:pub
+intentar:try,attempt,assay
+auxiliar:assistant,auxiliary,ancillary
+introdujo:introduced,inserted
+su:his,yours,its,their
+vehículo:vehicle,tow
+particular:particular
+tratar:try,trat,process
+llevarle:take him
+hospital:hospital
+pero:but,only
+hombre:man,husband,love
+falleció:passed away,perished,deceased
+interior:inside
+coche:car,motor car,saloon
+agresor:aggressor,assailant
+son:They are
+origen:origin,source,beginning
+sudamericano:South American
+los:the,them
+dos:two
+conocen:know,recognize,meet
+desde:since,from
+hace:does,ago
+tiempo:weather,period,tense
+policía:police
+nacional:national
+ha:he has,have
+hecho:fact,deed,factor
+cargo:position
+las:the,them
+investigaciones:research
+trata:about
+identificar:identify,recognize
+localizar:to locate,to track
+asesino:assassin,killer,murderer
+encuentra:find,locate,spot
+huido:fled,escape
+procedido:proceeded
+ya:already
+sacar:take,get,draw
+cadáver:corpse
+opel:opel
+zafira:zafira
+discurso:speech,address
+después:after,later
+agradecer:to thank
+distinción:distinction,discrimination
+recordado:remembered,recalled,recollected
+importancia:importance,value
+autovía:dual carriageway
+cantábrico:Cantabrian
+a-8:a-8
+recientemente:recently,lately
+terminada:completed,finished
+veinticinco:twenty five
+años:years
+obras:works
+esa:that
+es:is,are
+obra:work,play
+vertebral:vertebral
+cornisa:cornice
+cantábrica:Cantabrian
+sobre:on,about
+cuya:whose
+relevancia:relevance
+no:do not
+cabe:fit,accomodate,squeeze in
+duda:doubt,query
+ustedes:you
+probablemente:probably,likely,possibly
+recorran:travel,walk
+cierta:certain,sure
+costumbre:habit,use
+trayecto:journey,way,course
+hasta:until,till
+asturias :asturias
+habrán:they will have
+comprobado:checked
+cuánta:how much
+mejora:improvement,betterment
+supuesto:supposed,so-called
+tiempo:weather,period,time
+seguridad:security,safety,certainity
+comodidad:comfort,ease,convenience
+detallado:detailed,elaborate
+vez:time,occasion
+esta:this one,this
+vía :via
+existe:exists,occur
+otra:other
+ambición:ambition,aspiration
+relacionada:related,allied
+comunicaciones:communications,message
+noroeste :northwest
+consejeros:counselors
+infraestructuras:infrastructure
+galicia:galicia
+castilla:castile
+león:lion
+asturias:asturias
+han:have
+plasmado:captured
+una:a,an,one
+declaración:declaration,statement
+institucional:institutional
+expresa:expresses,utters
+demanda:demand,plaint
+común:common,mutual
+respaldado:backed up,protected
+así:a yes
+petición:petition
+corredor:runner
+ferroviario:railway
+atlántico:atlantic
+dé:from
+prioridad:priority
+enlace:link
+puertos:ports
+vigo:vigo
+coruña:coruña
+avilés:avilés
+gijón:gijón
+se:he
+complete:complete
+posteriormente:later
+línea:line
+costa:coast
+entre:between
+gijón:gijón
+similar:similary
+al:to the
+existente:existing
+corredor:runner
+mediterráneo:mediterranean
+tarde:late
+conecte:connect
+francia:france
+única:only
+pega:hit
+a-8:a-8
+su:his
+demora:delay
+tardanza:delay
+acumulada:cumulative
+finalización:ending
+por:by
+espera:wait
+que:what
+conjunta:joint
+tres:three
+comunidades:communities
+merezca:deserve
+atención:attention
+ministerio:ministry
+fomento:promotion
+pereza:sloth
+administrativa:administrative
+desidia:lazy
+presupuestaria:budgetary
+siempre:always
+acechantes:stalkers
+posterguen:postpone
+estas:these
+reivindicaciones:claims
+defendido:defended
+asimismo:likewise
+planteamiento:approach
+porque:why
+opinión :opinion
+redundaría:would be redundant
+beneficio:benefit
+todo:all
+noroeste:northwest
+peninsular:peninsular
+aún:yet
+necesitado:needy
+fuerte:strong
+impulso:impulse
+sus:their
+infraestructuras:infrastructure
+presidente:president
+centro:center
+asturiano :asturian
+josé:josé
+manuel:manuel
+rodríguez:rodríguez
+gonzález:gonzález
+incidido:influenced
+vínculos:links
+unen:unite
+asturianos:asturians
+mente:mind
+puesta:put
+orígenes:origins
+bien:all right
+adaptados:adapted
+tierra:earth
+gallega:galician
